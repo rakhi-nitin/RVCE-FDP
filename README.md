@@ -2,8 +2,11 @@
 Implementation of a 4 bit down counter from spec to soc integration 
 
 Step1: write the C model and save
+
 <img width="566" alt="step1" src="https://github.com/user-attachments/assets/55de061e-89cf-433e-9cf8-c2491f6b8152">
+
 Step 2: Run gcc command and print the output
+
 <img width="283" alt="step 1" src="https://github.com/user-attachments/assets/ead1569f-3da4-4e62-bd08-73282e360574">
 The output corresonds to O0
 step 3:Run the riscv64 commands to convert C model to assembly language
